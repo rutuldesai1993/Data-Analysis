@@ -1,0 +1,50 @@
+.headerWidth {
+	min-width: 50%;
+}
+
+.home {
+	background-color: #FFFFFF;
+    border: none;
+    color: yellow;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+}
+
+.panel {
+	background-color: White;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-right-style: solid;
+}
+
+.report {
+	text-align: center;
+	font-size: 100%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.box {
+	display: inline-block;
+	background-color: #87CEEB;
+	border: 2.5px double #00008B;
+	opacity: 0.7;
+	color: #00008B;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.main {
+	text-align: center;
+	font-size: 150%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	position: fixed;
+	color: #000000;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
